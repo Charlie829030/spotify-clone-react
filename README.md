@@ -26,7 +26,7 @@ npm start
 
 [https://localhost:3000](https://localhost:3000)
 
-## Show [`Spotify`](https://charlie829030.github.io/Spotify/)
+## Show [`Spotify`](https://charlie829030.github.io/spotify-clone-react/)
 
 ![spotify](https://user-images.githubusercontent.com/113832827/235576684-a1cddebd-ce6d-461f-9be2-6b1efd31f4de.png)
 
